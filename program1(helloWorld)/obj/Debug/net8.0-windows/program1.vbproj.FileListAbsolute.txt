@@ -1,0 +1,16 @@
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program1\bin\Debug\net8.0-windows\program1.exe
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program1\bin\Debug\net8.0-windows\program1.deps.json
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program1\bin\Debug\net8.0-windows\program1.runtimeconfig.json
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program1\bin\Debug\net8.0-windows\program1.dll
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program1\bin\Debug\net8.0-windows\program1.pdb
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program1\obj\Debug\net8.0-windows\program1.Form1.resources
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program1\obj\Debug\net8.0-windows\program1.vbproj.GenerateResource.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program1\obj\Debug\net8.0-windows\program1.GeneratedMSBuildEditorConfig.editorconfig
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program1\obj\Debug\net8.0-windows\program1.AssemblyInfoInputs.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program1\obj\Debug\net8.0-windows\program1.AssemblyInfo.vb
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program1\obj\Debug\net8.0-windows\program1.vbproj.CoreCompileInputs.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program1\obj\Debug\net8.0-windows\program1.dll
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program1\obj\Debug\net8.0-windows\refint\program1.dll
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program1\obj\Debug\net8.0-windows\program1.pdb
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program1\obj\Debug\net8.0-windows\program1.genruntimeconfig.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program1\obj\Debug\net8.0-windows\ref\program1.dll

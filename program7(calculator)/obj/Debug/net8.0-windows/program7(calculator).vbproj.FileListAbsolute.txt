@@ -1,0 +1,16 @@
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program7(calculator)\bin\Debug\net8.0-windows\program7(calculator).exe
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program7(calculator)\bin\Debug\net8.0-windows\program7(calculator).deps.json
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program7(calculator)\bin\Debug\net8.0-windows\program7(calculator).runtimeconfig.json
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program7(calculator)\bin\Debug\net8.0-windows\program7(calculator).dll
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program7(calculator)\bin\Debug\net8.0-windows\program7(calculator).pdb
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program7(calculator)\obj\Debug\net8.0-windows\program7_calculator_.Form1.resources
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program7(calculator)\obj\Debug\net8.0-windows\program7(calculator).vbproj.GenerateResource.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program7(calculator)\obj\Debug\net8.0-windows\program7(calculator).GeneratedMSBuildEditorConfig.editorconfig
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program7(calculator)\obj\Debug\net8.0-windows\program7(calculator).AssemblyInfoInputs.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program7(calculator)\obj\Debug\net8.0-windows\program7(calculator).AssemblyInfo.vb
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program7(calculator)\obj\Debug\net8.0-windows\program7(calculator).vbproj.CoreCompileInputs.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program7(calculator)\obj\Debug\net8.0-windows\program7(calculator).dll
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program7(calculator)\obj\Debug\net8.0-windows\refint\program7(calculator).dll
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program7(calculator)\obj\Debug\net8.0-windows\program7(calculator).pdb
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program7(calculator)\obj\Debug\net8.0-windows\program7(calculator).genruntimeconfig.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program7(calculator)\obj\Debug\net8.0-windows\ref\program7(calculator).dll
