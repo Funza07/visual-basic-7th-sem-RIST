@@ -1,0 +1,16 @@
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program5(oddEven)\bin\Debug\net8.0-windows\program5(oddEven).exe
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program5(oddEven)\bin\Debug\net8.0-windows\program5(oddEven).deps.json
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program5(oddEven)\bin\Debug\net8.0-windows\program5(oddEven).runtimeconfig.json
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program5(oddEven)\bin\Debug\net8.0-windows\program5(oddEven).dll
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program5(oddEven)\bin\Debug\net8.0-windows\program5(oddEven).pdb
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program5(oddEven)\obj\Debug\net8.0-windows\program5_oddEven_.Form1.resources
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program5(oddEven)\obj\Debug\net8.0-windows\program5(oddEven).vbproj.GenerateResource.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program5(oddEven)\obj\Debug\net8.0-windows\program5(oddEven).GeneratedMSBuildEditorConfig.editorconfig
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program5(oddEven)\obj\Debug\net8.0-windows\program5(oddEven).AssemblyInfoInputs.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program5(oddEven)\obj\Debug\net8.0-windows\program5(oddEven).AssemblyInfo.vb
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program5(oddEven)\obj\Debug\net8.0-windows\program5(oddEven).vbproj.CoreCompileInputs.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program5(oddEven)\obj\Debug\net8.0-windows\program5(oddEven).dll
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program5(oddEven)\obj\Debug\net8.0-windows\refint\program5(oddEven).dll
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program5(oddEven)\obj\Debug\net8.0-windows\program5(oddEven).pdb
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program5(oddEven)\obj\Debug\net8.0-windows\program5(oddEven).genruntimeconfig.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program5(oddEven)\obj\Debug\net8.0-windows\ref\program5(oddEven).dll
