@@ -1,0 +1,16 @@
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program11(gradeCalc)\bin\Debug\net8.0-windows\program11(gradeCalc).exe
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program11(gradeCalc)\bin\Debug\net8.0-windows\program11(gradeCalc).deps.json
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program11(gradeCalc)\bin\Debug\net8.0-windows\program11(gradeCalc).runtimeconfig.json
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program11(gradeCalc)\bin\Debug\net8.0-windows\program11(gradeCalc).dll
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program11(gradeCalc)\bin\Debug\net8.0-windows\program11(gradeCalc).pdb
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program11(gradeCalc)\obj\Debug\net8.0-windows\program11_gradeCalc_.Form1.resources
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program11(gradeCalc)\obj\Debug\net8.0-windows\program11(gradeCalc).vbproj.GenerateResource.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program11(gradeCalc)\obj\Debug\net8.0-windows\program11(gradeCalc).GeneratedMSBuildEditorConfig.editorconfig
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program11(gradeCalc)\obj\Debug\net8.0-windows\program11(gradeCalc).AssemblyInfoInputs.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program11(gradeCalc)\obj\Debug\net8.0-windows\program11(gradeCalc).AssemblyInfo.vb
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program11(gradeCalc)\obj\Debug\net8.0-windows\program11(gradeCalc).vbproj.CoreCompileInputs.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program11(gradeCalc)\obj\Debug\net8.0-windows\program11(gradeCalc).dll
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program11(gradeCalc)\obj\Debug\net8.0-windows\refint\program11(gradeCalc).dll
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program11(gradeCalc)\obj\Debug\net8.0-windows\program11(gradeCalc).pdb
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program11(gradeCalc)\obj\Debug\net8.0-windows\program11(gradeCalc).genruntimeconfig.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program11(gradeCalc)\obj\Debug\net8.0-windows\ref\program11(gradeCalc).dll
