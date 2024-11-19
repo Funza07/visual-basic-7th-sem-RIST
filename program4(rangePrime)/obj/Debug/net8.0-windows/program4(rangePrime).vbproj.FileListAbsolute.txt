@@ -1,0 +1,16 @@
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program4(rangePrime)\obj\Debug\net8.0-windows\program4_rangePrime_.Form1.resources
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program4(rangePrime)\obj\Debug\net8.0-windows\program4(rangePrime).vbproj.GenerateResource.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program4(rangePrime)\obj\Debug\net8.0-windows\program4(rangePrime).GeneratedMSBuildEditorConfig.editorconfig
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program4(rangePrime)\obj\Debug\net8.0-windows\program4(rangePrime).AssemblyInfoInputs.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program4(rangePrime)\obj\Debug\net8.0-windows\program4(rangePrime).AssemblyInfo.vb
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program4(rangePrime)\obj\Debug\net8.0-windows\program4(rangePrime).vbproj.CoreCompileInputs.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program4(rangePrime)\bin\Debug\net8.0-windows\program4(rangePrime).exe
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program4(rangePrime)\bin\Debug\net8.0-windows\program4(rangePrime).deps.json
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program4(rangePrime)\bin\Debug\net8.0-windows\program4(rangePrime).runtimeconfig.json
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program4(rangePrime)\bin\Debug\net8.0-windows\program4(rangePrime).dll
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program4(rangePrime)\bin\Debug\net8.0-windows\program4(rangePrime).pdb
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program4(rangePrime)\obj\Debug\net8.0-windows\program4(rangePrime).dll
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program4(rangePrime)\obj\Debug\net8.0-windows\refint\program4(rangePrime).dll
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program4(rangePrime)\obj\Debug\net8.0-windows\program4(rangePrime).pdb
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program4(rangePrime)\obj\Debug\net8.0-windows\program4(rangePrime).genruntimeconfig.cache
+C:\RIST\4th Year\7th Sem\VB-SE\Lab_Record\program4(rangePrime)\obj\Debug\net8.0-windows\ref\program4(rangePrime).dll
